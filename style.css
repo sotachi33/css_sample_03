@@ -1,0 +1,39 @@
+@charset   "UTF-8";
+body {
+  background-color: gray;
+}
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color: white;
+}
+ 
+header   {
+  padding: 40px;
+  height: 80px;
+}
+ 
+nav {
+  padding: 8px 40px;
+  background-color: black;
+  color: white;
+}
+ 
+main{
+  padding: 40px;
+  height : 400px;
+}
+main p {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Lora', serif;
+  font-family: 'Noto Serif JP', serif;
+  text-align: center;
+}
+footer   {
+  padding: 40px;
+  height: 40px;
+  background-color : black;
+  color: white;
+}
